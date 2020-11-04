@@ -2,6 +2,7 @@ Red
 Orange
 Unicorn
 Yellow
+Pink
 Green
 These are the colors of the Rainbow
 and Unicorn
